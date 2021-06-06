@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, I'm [MD AL AMIN](https://alamin.io/) 👋
 
-<!--
-**alaminio/alaminio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a software engineer specialized in both front-end & back-end. prefer backend job. learning golang.
 
-Here are some ideas to get you started:
+I am an experienced web developer having eight years of experience. For the last three years, I have been working solely in the Laravel framework. Besides Laravel as a primary back-end tool, I have experience with many front-end tools like Jquery, ReactJS, Bootstrap, TailwindCSS, etc. I have working experience with NodeJS with ExpressJS, WordPress theme & plugin development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on "Rest API development for mobile app usiMng Laravel".
+- 🌱 I’m currently learning golang, postgresql.
+- 👯 I’m looking to work on reactjs, nodejs, golang.
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
