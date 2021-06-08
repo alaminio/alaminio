@@ -5,7 +5,7 @@ a software engineer specialized in both front-end & back-end. prefer backend job
 I am an experienced web developer having eight years of experience. For the last three years, I have been working solely in the Laravel framework. Besides Laravel as a primary back-end tool, I have experience with many front-end tools like Jquery, ReactJS, Bootstrap, TailwindCSS, etc. I have working experience with NodeJS with ExpressJS, WordPress theme & plugin development.
 
 
-- 🔭 I’m currently working on "Rest API development for mobile app usiMng Laravel".
+- 🔭 I’m currently working on "API development for money transfer mobile apps using Laravel".
 - 🌱 I’m currently learning golang, postgresql.
 - 👯 I’m looking to work on reactjs, nodejs, golang.
 
