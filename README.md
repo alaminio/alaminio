@@ -2,12 +2,12 @@
 
 a software engineer specialized in both front-end & back-end. prefer backend job. learning golang.
 
-I am an experienced web developer having eight years of experience. For the last three years, I have been working solely in the Laravel framework. Besides Laravel as a primary back-end tool, I have experience with many front-end tools like Jquery, ReactJS, Bootstrap, TailwindCSS, etc. I have working experience with NodeJS with ExpressJS, WordPress theme & plugin development.
+With a deep understanding of various JavaScript frameworks, I have a proven track record in architecting and developing highly efficient web applications. My expertise lies in leveraging the strengths of different frameworks to create scalable and innovative solutions that deliver exceptional user experiences.
 
 
 - 🔭 I’m currently working on "API development for money transfer mobile apps using Laravel".
-- 🌱 I’m currently learning golang, postgresql.
-- 👯 I’m looking to work on reactjs, nodejs, golang.
+- 🌱 I’m currently learning golang.
+- 👯 I’m looking to work on reactjs, nodejs, nestjs, nextjs projects.
 
 
 **Languages and Tools:**  
